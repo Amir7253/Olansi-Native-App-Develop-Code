@@ -1,5 +1,3 @@
-# Olansi-Native-App-Develop-Code
-
 # What is Olansi Air Purifier/Air Cleaner? 
 
 Olansi Air purifier, otherwise called air cleaner and air purifier, is an item that can channel or execute air poisons and adequately improve air tidiness. Some climate control systems, warmers and other cooling hardware additionally have a restricted level of air purging capacity. 
